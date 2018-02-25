@@ -1,2 +1,2 @@
 # microservices-arq
-Aplicacion orientadad a miroservicios
+Aplicacion orientada a miroservicios
